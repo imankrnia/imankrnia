@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Iman Kurnia, you can call me Iman.
+###
+I am a Undergraduate Information System Student at Gunadarma University.
+
+###
+🌱 I’m currently learning Python
 
 <!--
 **imankrnia/imankrnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
